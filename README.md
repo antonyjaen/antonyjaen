@@ -1,20 +1,3 @@
-# StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
-<!-- STACKOVERFLOW:END -->
-name: Latest stack overflow activity
-on:
-  schedule:
-    # Runs every 5 minutes
-    - cron: '*/5 * * * *'
-  workflow_dispatch:
-jobs:
-  update-readme-with-stack-overflow:
-    name: Update this repo's README with latest activity from StackOverflow
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "STACKOVERFLOW"
-          commit_message: "Updated readme with the latest stackOverflow data"
-          feed_list: "https://stackoverflow.com/feeds/user/4214976"
+Hi im Antony Jaén, im a Jr Fullstack developer 
+
+[<img align="left" alt="React" width="26px" src="http://sigdeletras.com/images/blog/202004_react_leaflet/react.png">][webdevplaylist]
