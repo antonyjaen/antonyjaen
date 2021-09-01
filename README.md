@@ -32,8 +32,6 @@
                 <br>
                 <img align="left"  width="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"> MySQL
                 <br>
-                <br>
-                <img align="left" width="26px" src="https://cdn.icon-icons.com/icons2/512/PNG/512/prog-flask_icon-icons.com_50797.png"> Flask
         </div>
 </div>
 
