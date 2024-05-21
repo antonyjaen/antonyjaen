@@ -1,4 +1,4 @@
-<h1> 👋 Hi I'm Antony Jaén - Jr Fullstack developer </h1>
+<h1> 👋 Hi I'm Antony Jaén - Fullstack developer </h1>
 <br>
 
 
